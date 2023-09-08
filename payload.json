@@ -1,0 +1,21 @@
+[
+  {
+    "reference": "require",
+    "currencyCode": "require",
+    "issueDate": "require",
+    "openingValue": 1234.56,
+    "paidValue": 1234.56,
+    "dueDate": "require",
+    "closedDate": "optional",
+    "cancelled": true,
+    "debtorName": "require",
+    "debtorReference": "string",
+    "debtorAddress1": "optional",
+    "debtorAddress2": "optional", 
+    "debtorTown": "optional",
+    "debtorState": "optional",
+    "debtorZip": "optional",
+    "debtorCountryCode": "require",
+    "debtorRegistrationNumber": "optional"
+  }
+]
